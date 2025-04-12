@@ -1,6 +1,20 @@
 # Identidad y Seguridad en AWS.
 
+> **Nota:** La información aquí es tomada de documentación oficial, y de información en internet.
+> Este repositorio es una recopilación de las charlas que daremos en el Cloud Practitioner Challenge hecho por la comunidad** AWS User Group Medellín**.
+> - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
+> - [Link de la charla en Yotube](https://www.youtube.com/watch?v=PWcl1vwGCrc&list=PLhbdvasxz8wwO-b9nlRBYYzY6n5CvSOvj&index=1 "Link de la charla en Yotube")
+> - [LinkedIn de Cristian Pavony](https://www.linkedin.com/in/ingenierocristianpavonyv/ "LinkedIn de Cristian Pavony")
+
 Seguridad es el segundo dominio (tema) de mayor peso en el examen de certificación CLF-C02.
+
+## Contenido de la charla:
+- Conceptos de Shared Responsability Model.
+- AWS IAM (Identity and Access Management): roles, políticas, permisos.
+- Seguridad en la red: Security Groups y Network ACLs.
+- Cifrado de datos en reposo y en tránsito.
+- Servicios clave: AWS Shield, AWS WAF, AWS KMS, AWS Artifact.
+
 
 ### 1. Modelo de responsabilidad compartida (Shared Responsibility Model)
 - **¿Quién es responsable de mantener seguros los recursos en AWS:**
@@ -186,12 +200,4 @@ Identifica amenazas mediante la supervisión continua de la actividad de la red 
 	- [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials/lessons/136404/aws-cloud-practitioner-essentials "AWS Cloud Practitioner Essentials Course")
 	- [AWS Cloud Practitioner Essentials Course en Español](https://explore.skillbuilder.aws/learn/courses/10455/aws-cloud-practitioner-essentials-espanol-de-espana/lessons/142384/fundamentos-de-la-nube-de-aws-para-profesionales "AWS Cloud Practitioner Essentials Course en Español")
 	- [Modelo de responsabilidad compartida](https://aws.amazon.com/es/compliance/shared-responsibility-model/?nc1=h_ls "Modelo de responsabilidad compartida")
-	- [AWS Security Fundamentals](https://explore.skillbuilder.aws/learn/courses/572/aws-security-fundamentals-second-edition-espanol-latam/lessons/81192/aspectos-basicos-de-seguridad-de-aws-segunda-edicion-espanol-latinoamerica-aws-security-fundamentals-second-edition-spanish-from-latin-america "AWS Security Fundamentals")
-
-
-
-> **Nota:** La información aquí es tomada de documentación oficial, y de información en internet.
-> Este repositorio es una recopilación de las charlas que daremos en el Cloud Practitioner Challenge hecho por la comunidad** AWS User Group Medellín**.
-> - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
-> - [Link de la charla en Yotube](https://www.youtube.com/watch?v=PWcl1vwGCrc&list=PLhbdvasxz8wwO-b9nlRBYYzY6n5CvSOvj&index=1 "Link de la charla en Yotube")
-> - [LinkedIn de Cristian Pavony](https://www.linkedin.com/in/ingenierocristianpavonyv/ "LinkedIn de Cristian Pavony")
+	- [AWS Security Fundamentals](https://explore.skillbuilder.aws/learn/courses/572/aws-security-fundamentals-second-edition-espanol-latam/lessons/81192/aspectos-basicos-de-seguridad-de-aws-segunda-edicion-espanol-latinoamerica-aws-security-fundamentals-second-edition-spanish-from-latin-america "AWS Security Fundamentals")   

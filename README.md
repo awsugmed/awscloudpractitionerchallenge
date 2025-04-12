@@ -3,6 +3,8 @@
 ### Objetivo del Challenge:
 El AWS Cloud Practitioner Challenge es una iniciativa de AWS User Group Medellín diseñado para ayudar a los entusiastas de la nube a prepararse para la certificación AWS Certified Cloud Practitioner (CLF-C02).
 **(NOTA: Es apto para todos los niveles)**
+### Dominios de enfoque del examen:
+![dominios](./imagenes/dominios.png)
 
 ### Contenido de las sesiones:
 El repositorio tiene una carpeta por charla, donde estará toda la información correspondiente:
@@ -24,6 +26,10 @@ El repositorio tiene una carpeta por charla, donde estará toda la información 
 - O'Reilly
 
 ### Referencias y documentación usada:
+- [Información del examen en la página oficial de AWS](https://aws.amazon.com/es/certification/certified-cloud-practitioner/ "Información del examen en la página oficial de AWS")
+- [Guía oficial del examen](https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf "Guía oficial del examen")
+- [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials/lessons/136404/aws-cloud-practitioner-essentials "AWS Cloud Practitioner Essentials Course")
+- [AWS Cloud Practitioner Essentials Course en Español](https://explore.skillbuilder.aws/learn/courses/10455/aws-cloud-practitioner-essentials-espanol-de-espana/lessons/142384/fundamentos-de-la-nube-de-aws-para-profesionales "AWS Cloud Practitioner Essentials Course en Español")
 - [Cloud quest](https://explore.skillbuilder.aws/learn/courses/11458/aws-cloud-quest-cloud-practitioner "Cloud quest")
 - [AWS Well Architected Framework](https://docs.aws.amazon.com/es_es/wellarchitected/latest/framework/welcome.html "AWS Well Architected Framework")
 
