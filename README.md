@@ -38,3 +38,12 @@ El repositorio tiene una carpeta por charla, donde estará toda la información 
 > Este repositorio es una recopilación de las charlas que daremos en el Cloud Practitioner Challenge hecho por la comunidad** AWS User Group Medellín**.
 > - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
 > - [Link de las sesiones en Youtube](https://www.youtube.com/playlist?list=PLhbdvasxz8wwO-b9nlRBYYzY6n5CvSOvj "Link de las sesiones en Youtube")
+
+
+## Disclaimer
+
+- This repository is NOT an official AWS Repository, it's built and maintained by the AWS User Group Medellín Community members by open source projects and documents.
+
+## Special Thanks! 🙏
+
+- [Santiago Bedoya](https://github.com/Santiago1023) and [Cristian Pavony](https://www.instagram.com/cpavony) for their invaluable support to the AWS Community!
