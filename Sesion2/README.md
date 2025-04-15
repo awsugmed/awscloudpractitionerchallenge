@@ -5,6 +5,7 @@
 > - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
 > - [Link de la charla en Yotube](https://www.youtube.com/watch?v=PWcl1vwGCrc&list=PLhbdvasxz8wwO-b9nlRBYYzY6n5CvSOvj&index=1 "Link de la charla en Yotube")
 > - [LinkedIn de Cristian Pavony](https://www.linkedin.com/in/ingenierocristianpavonyv/ "LinkedIn de Cristian Pavony")
+> - [Enlace a las diapositivas para descargar](https://www.canva.com/design/DAGjJpxDgX4/JodbGQ5vDDeZa3l4Sgx3ow/edit?utm_content=DAGjJpxDgX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Enlace a las diapositivas para descargar")
 
 Seguridad es el segundo dominio (tema) de mayor peso en el examen de certificación CLF-C02.
 
