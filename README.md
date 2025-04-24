@@ -46,4 +46,4 @@ El repositorio tiene una carpeta por charla, donde estará toda la información 
 
 ## Special Thanks! 🙏
 
-- [Santiago Bedoya](https://github.com/Santiago1023) and [Cristian Pavony](https://www.instagram.com/cpavony) for their invaluable support to the AWS Community!
+- [Santiago Bedoya](https://github.com/Santiago1023) and [Cristian Pavony](https://github.com/p4v0/) for their invaluable support to the AWS Community!
