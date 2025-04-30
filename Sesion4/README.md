@@ -1,7 +1,22 @@
 # Servicios de Almacenamiento en AWS
 
+> **Nota:** La información aquí es tomada de documentación oficial, y de información en internet.
+> Este repositorio es una recopilación de las charlas que daremos en el Cloud Practitioner Challenge hecho por la comunidad** AWS User Group Medellín**.
+> - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
+> - [Link de la charla en Yotube](https://www.youtube.com/watch?v=j81cCHrfmqA "Link de la charla en Yotube")
+> - [LinkedIn de Jose David Verbel](https://www.linkedin.com/in/jverbel/ "LinkedIn de Jose David Verbel")
+
 ---
 
+## Contenido de la charla:
+- Introducción a los servicios de almacenamiento de AWS
+- Amazon EBS (Elastic Block Store)
+- Amazon EFS (Elastic File System)
+- Amazon S3 (Simple Storage Service) y Amazon Glacier
+- AWS Snow Family y AWS Storage Gateway
+- Resumen
+
+---
 ## 1. Introducción a los servicios de almacenamiento de AWS
 
 AWS ofrece múltiples opciones de almacenamiento que se adaptan a diferentes necesidades:
