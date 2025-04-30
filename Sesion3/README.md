@@ -146,10 +146,45 @@ Permite ejecutar código sin aprovisionar ni administrar servidores.
 - Compatible con Docker.
 - Soporta modo EC2 (en instancias propias) o **Fargate** (serverless containers).
 
+### AWS Fargate para Amazon ECS
+La tecnología AWS Fargate se puede utilizar en Amazon ECS para ejecutar contenedores sin tener que administrar servidores ni clústeres de instancias de Amazon EC2. Con AWS Fargate ya no tendrá que aprovisionar, configurar ni escalar clústeres de máquinas virtuales para ejecutar los contenedores. De esta manera, se elimina la necesidad de elegir tipos de servidores, decidir cuándo escalar los clústeres u optimizar conjuntos de clústeres.
+
+| Nivel               | EC2 clásico (no administrado)                       | ECS Fargate o Lambda (administrado) |
+|----------------------|---------------------------------------|----------------------|
+| Infraestructura física         | Tú no la ves, pero AWS la mantiene | AWS se encarga completamente              |
+| Sistema operativo| Tú lo instalas y gestionas  | AWS lo maneja por ti        |
+| Escalado      | Tú lo configuras | Se hace automáticamente  |
+| Seguridad  | Tú configuras firewalls, roles    | AWS da configuraciones seguras por defecto         |
+
+### ¿Qué es Kubernetes?
+Kubernetes es un software de código abierto que permite orquestar y administrar aplicaciones en contenedores a gran escala.
+Kubernetes (también llamado K8s) es una plataforma de orquestación de contenedores de código abierto.
+### Sirve para:
+- Ejecutar muchos contenedores al mismo tiempo
+- Administrar su escalado
+- Recuperarlos si fallan (alta disponibilidad)
+- Balancear carga entre ellos
+- Automatizar despliegues
+
+Kubernetes se encarga de que tus aplicaciones estén siempre disponibles, sin que tengas que manejar cada contenedor uno por uno.
+
 ### Amazon EKS
 
 - Servicio de Kubernetes administrado.
 - Ideal para quienes ya usan Kubernetes.
 - Compatible con herramientas y ecosistema estándar de K8s.
+
+### ¿Qué hace Amazon EKS por ti?
+EKS se encarga de manejar por ti las partes más difíciles y técnicas de usar Kubernetes:
+Instala y configura Kubernetes automáticamente
+- Administra la seguridad y el control de acceso
+- Aplica parches y actualizaciones al clúster
+- Se integra con otros servicios de AWS (IAM, CloudWatch, ELB, etc.)
+- Escala tu aplicación y clúster automáticamente
+
+Así, tú solo te enfocas en crear y correr tus apps en contenedores, sin preocuparte por el mantenimiento del clúster.
+
+**Docker** es como tener una maleta de viaje: llevas todo lo que necesitas para ejecutar tu app en cualquier lugar.
+**Kubernetes** es como un aeropuerto automatizado que gestiona miles de maletas (contenedores): las dirige, las ordena, las redistribuye si algo falla.
 
 ---
