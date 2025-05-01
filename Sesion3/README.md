@@ -5,6 +5,7 @@
 > - [Redes sociales de la comunidad AWS User Group Medellín](https://linktr.ee/awsugmed "Redes sociales de la comunidad AWS User Group Medellín")
 > - [Link de la charla en Yotube](https://www.youtube.com/watch?v=IhxrEubfIfI&list=PLhbdvasxz8wwO-b9nlRBYYzY6n5CvSOvj&index=2 "Link de la charla en Yotube")
 > - [LinkedIn de Yuriangel Sena](https://www.linkedin.com/in/yuriangelsena-datos/ "LinkedIn de Yuriangel Sena")
+> - [Enlace a las diapositivas para descargar](https://www.canva.com/design/DAGkuDD3rd4/I5D-H1IYtqx9Gu22zFI8CQ/edit?utm_content=DAGkuDD3rd4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Enlace a las diapositivas para descargar")
 
 ---
 
