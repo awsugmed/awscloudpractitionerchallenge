@@ -39,16 +39,20 @@
 ### **Capacidades:**
 
 **Compatibilidad:** Soporta motores de bases de datos como MySQL, PostgreSQL, MariaDB, Oracle y SQL Server.
+
 **Alta Disponibilidad:** Opciones de Multi-AZ para alta disponibilidad y recuperación ante desastres.
+
 **Monitoreo:** Integración con Amazon CloudWatch para monitoreo y alertas.
 
 ### **Ventajas:**
 
 **Costo-Eficiencia:** Pago por uso, sin costos iniciales elevados.
+
 **Flexibilidad:** Escalabilidad automática y sin tiempos de inactividad.
+
 **Seguridad:** Integración con AWS Identity and Access Management (IAM) para control de acceso.
 
-[![](rds)](imagenes/rds.png)
+![rds](./imagenes/dominios.png)
 ---
 ## 2. AWS DynamoDB
 
@@ -128,7 +132,9 @@
 - **Business Intelligence:** Generación de informes y visualización de datos para la toma de decisiones.
 - **Machine Learning:** Preparación y análisis de datos para modelos de aprendizaje automático.
 - **E-commerce:** Análisis de datos de ventas, clientes y productos.
+
 **Ejemplo:**
+
 - **Lyft:** Utiliza AWS Redshift para analizar datos de viajes y mejorar la experiencia del usuario.
 
 ### Capacidades:
@@ -142,7 +148,7 @@
 - **Seguridad:** Cifrado de datos en reposo y en tránsito, y opciones de recuperación ante desastres.
 
 ---
-## AWS DMS
+## 5. AWS DMS
 
 ### ¿Qué es AWS DMS?
 
