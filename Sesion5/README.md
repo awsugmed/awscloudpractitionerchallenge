@@ -1,4 +1,4 @@
-# Servicios de Almacenamiento en AWS
+# Bases de Datos en AWS
 
 > **Nota:** La información aquí es tomada de documentación oficial, y de información en internet.
 > Este repositorio es una recopilación de las charlas que daremos en el Cloud Practitioner Challenge hecho por la comunidad** AWS User Group Medellín**.
