@@ -10,7 +10,7 @@
 
 ## Contenido de la charla:
 
-- ** AWS CloudFormation: infraestructura como código**
+- **AWS CloudFormation: infraestructura como código**
 - **AWS Elastic Beanstalk: despliegue automático de aplicaciones**
 - **AWS CodeDeploy, CodePipeline, CodeBuild**
 - **Integración con herramientas de terceros**
@@ -112,3 +112,6 @@ AWS se puede integrar con otras herramientas populares en el mundo DevOps como:
 - Automatiza lo más posible para lograr entornos reproducibles y seguros.
 
 ---
+
+## 6. Mindmap sobre la charla y AWS:
+https://xmind.ai/share/S65su3dy
