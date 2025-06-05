@@ -21,10 +21,6 @@
 
 ## Introducción
 
-Esta sesión forma parte del challenge de preparación para el AWS Cloud Practitioner y tiene como objetivo introducir los fundamentos de redes en la nube, servicios clave de AWS como Amazon VPC, Route 53, CloudFront y opciones de conectividad.
-
-## Introducción
-
 Observar sistemas, recopilar métricas, evaluar esas métricas y a lo largo del tiempo, luego usarlas para tomar decisiones o tomar acciones, es lo que llamamos supervisión.
 
 En esta sesión veremos una variedad de servicios y herramientas que lo ayudarán a supervisar su entorno de AWS.  Esta supervisión ayudará a medir cómo funcionan los sistemas, alertará cuando las cosas no van bien e incluso le ayudará a depurar y solucionar problemas a medida que aparecen.
@@ -72,16 +68,16 @@ AWS CloudTrail es un servicio de AWS que le ayuda a habilitar la auditoría oper
 riesgos, la gobernanza y el cumplimiento de sus normas en su cuenta de AWS.
 Con CloudTrail, puede ver un historial completo de la actividad de los usuarios y las llamadas a la API de las aplicaciones y recursos.
 
-** Beneficios de CloudTrail: **
+**Beneficios de CloudTrail:**
 
 - **Trazabilidad:** CloudTrail permite conocer las actividades de los usuarios mediante el registro de la actividad realizada en su cuenta. CloudTrail registra información importante sobre cada acción, incluido quién ha efectuado la solicitud, qué servicios se han utilizado, qué acción se ha realizado, los parámetros de las acciones y los elementos de la respuesta enviada por el servicio de AWS. Esta información le ayuda a realizar un seguimiento de los cambios que se producen en los recursos de AWS y a solucionar problemas operativos.
 - **Conformidad:** CloudTrail lo ayuda a demostrar la conformidad, mejorar la posición de seguridad y consolidar los registros de actividad en todas las regiones y cuentas.  CloudTrail facilita la tarea de garantizar la conformidad con las políticas internas y los estándares regulatorios.
 - **Almacene de forma inmutable eventos dignos de auditoría:**  En AWS CloudTraiL, puede almacenar de forma inmutable eventos dignos de auditoría. Genere de forma sencilla los informes de auditoría que exigen las políticas internas y las normativas externas.
 - **Obtenga información y analice actividades inusuales:**  Detecte el acceso no autorizado y analice los registros de actividad con Amazon Athena o con consultas basadas en SQL. Ahora es aún más fácil gracias a la generación de consultas en lenguaje natural (versión preliminar), la cual utiliza tecnología de IA generativa, para los usuarios con menos experiencia en la redacción de consultas SQL o CloudTrail. Responda con alertas de EventBridge basadas en reglas y flujos de trabajo automatizados.
 
-** Casos de uso: **
+**Casos de uso:**
 - **Cumplimiento y auditoría:**  Proteja su organización de cualquier penalidad mediante el uso de registros de CloudTrail de modo que se demuestre la conformidad con las distintas normativas, como SOC, PCI e HIPAA.
-- **Seguridad: ** Mejore la posición de seguridad mediante el registro de las actividades y los eventos de los usuarios, y configure reglas de flujos de trabajo automatizadas con Amazon EventBridge.
+- **Seguridad:** Mejore la posición de seguridad mediante el registro de las actividades y los eventos de los usuarios, y configure reglas de flujos de trabajo automatizadas con Amazon EventBridge.
 - **Operaciones:**  Responda a las preguntas operativas, facilite la depuración e investigue problemas como la limitación de velocidad con las consultas basadas en SQL, la generación de consultas en lenguaje natural, Amazon Athena o la visualización de las tendencias con paneles en CloudTrail Lake.
 ---
 
