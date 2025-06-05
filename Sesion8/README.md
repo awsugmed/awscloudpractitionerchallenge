@@ -112,7 +112,7 @@ AWS Auto Scaling monitoriza sus aplicaciones y ajusta automáticamente la capaci
 | Organizations     | Control multi-cuenta | Una sola factura para todo |
 
 
-- **Cost Explorer: **es como tu GPS financiero en AWS. Es gratis y te muestra exactamente dónde va tu dinero:
+- **Cost Explorer:** es como tu GPS financiero en AWS. Es gratis y te muestra exactamente dónde va tu dinero:
 
 |Lo que hace|Cómo te ayuda|
 |-------------|------------------|
